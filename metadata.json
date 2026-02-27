@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Projetos – Fibra",
+  "description": "Sistema de gerenciamento de ordens de serviço para projetos de fibra óptica, com controle de status, equipes, anexos e dashboard.",
+  "requestFramePermissions": []
+}
